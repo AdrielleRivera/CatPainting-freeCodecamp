@@ -83,8 +83,11 @@ body {
   background-color: #000;
 }
 
-.cat-right-eye{
-  width:30px;
-  height:40px;
-  background-color:#000;
+.cat-right-eye {
+  position:absolute;
+  top:54px;
+  left:134px;
+  width: 30px;
+  height: 40px;
+  background-color: #000;
 }
