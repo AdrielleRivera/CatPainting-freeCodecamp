@@ -137,4 +137,9 @@ body {
   border-color: black transparent transparent transparent;
 }
 
+.cat-mouth-line-left {
+  position: absolute;
+  top: 88px;
+  left: 74px;
   
+}
