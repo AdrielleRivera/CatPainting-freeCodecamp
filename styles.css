@@ -148,5 +148,11 @@ body {
   position: absolute;
   top: 88px;
   left: 91px;
-transform:rotate(165deg);
+  transform: rotate(165deg);
+}
+
+.cat-whiskers-left div{
+  width:40px;
+  height:1px;
+  background-color:#000;
 }
